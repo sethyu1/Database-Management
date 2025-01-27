@@ -1,0 +1,6 @@
+customer_id,home_id,first_name,last_name,password,access_level
+1,1,Alice,Johnson,password1,admin
+2,2,Bob,Williams,password2,user
+3,3,Charlie,Brown,password3,user
+4,4,Dave,White,password4,user
+5,5,Eve,Black,password5,admin

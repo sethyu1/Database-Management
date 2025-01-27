@@ -1,0 +1,11 @@
+device_id,home_id,device_name,device_type,manufacturer,installation_date
+D001,1,Living Room Light,light,LightCo,2023-01-15
+D002,1,Front Door Lock,lock,SecureTech,2023-02-10
+D003,2,Backyard Camera,camera,CamCorp,2023-03-20
+D004,2,Thermostat,sensor,ThermoInc,2023-04-05
+D005,3,Garage Door Opener,lock,GarageMaster,2023-05-12
+D006,4,Kitchen Light,light,BrightHome,2023-06-18
+D007,5,Living Room Camera,camera,SafeView,2023-07-22
+D008,5,Smart Doorbell,sensor,RingCo,2023-08-30
+MT01,12,Thermostat,sensor,Nest,2024-06-17
+MT02,12,Camera,camera,Ring,2024-06-17

@@ -1,0 +1,5 @@
+Changed database context to 'SmartHomeAutomation'.
+3
+home_id     address                                            city                                               province                                           owner_name                                         number_of_customers number_of_devices average_alerts
+----------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------- ----------------- --------------
+          3 789 Oak St                                         Sometown                                           Somestate                                          Alice Brown                                                          1                 1           NULL
